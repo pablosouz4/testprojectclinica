@@ -11,4 +11,5 @@ package entidades;
  */
 public class Animal {
         
+        String nome;
 }
